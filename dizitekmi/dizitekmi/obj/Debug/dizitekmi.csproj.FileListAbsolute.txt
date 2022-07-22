@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\dizitekmi\dizitekmi\bin\Debug\dizitekmi.exe.config
+C:\Users\Lenovo\source\repos\dizitekmi\dizitekmi\bin\Debug\dizitekmi.exe
+C:\Users\Lenovo\source\repos\dizitekmi\dizitekmi\bin\Debug\dizitekmi.pdb
+C:\Users\Lenovo\source\repos\dizitekmi\dizitekmi\obj\Debug\dizitekmi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\dizitekmi\dizitekmi\obj\Debug\dizitekmi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\dizitekmi\dizitekmi\obj\Debug\dizitekmi.exe
+C:\Users\Lenovo\source\repos\dizitekmi\dizitekmi\obj\Debug\dizitekmi.pdb
